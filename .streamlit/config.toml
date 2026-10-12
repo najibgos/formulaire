@@ -1,0 +1,7 @@
+# Configuration Streamlit du formulaire
+# [client] toolbarMode = "minimal" :
+#   - masque le bouton « Deploy » et le menu ⋮ de la barre d'outils
+#   - conserve le contrôle d'ouverture/fermeture de la barre latérale
+#     (indispensable sur téléphone portable)
+[client]
+toolbarMode = "minimal"
